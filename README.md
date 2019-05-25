@@ -1,7 +1,7 @@
 # sh-app8-day08_1
 
 
-hello
+你好  ž张三
 
 我好
 
